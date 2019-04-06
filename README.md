@@ -1,5 +1,10 @@
 # Database Spring 2019
 
+## Helpful Links
+* El-desokui's playlist: [Channel](https://www.youtube.com/playlist?list=PL37D52B7714788190)
+* Old Drives (18/19): [Drive Link](https://drive.google.com/open?id=15CMbB8Kh6q1RVNTBh6vw2eH8-3iqYE4A)
+* Old Notes (Eng. Sami): [Notes Folder](https://drive.google.com/open?id=102Rifcpk2EDOoRtsUg_1cDwhjZ-Bkq9M)
+
 ## Introduction to Database
 * <img src="https://pngimage.net/wp-content/uploads/2018/06/logo-lecture-png-7.png" alt="drawing"  width="15" height="15"/> [Lecture link](https://drive.google.com/open?id=1DNPfYl3IZcOzyVI4uyWiUnYgjdEI2fQqe07d9TtwMGQ)
 
