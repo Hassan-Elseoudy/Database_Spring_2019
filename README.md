@@ -8,6 +8,7 @@
 
 ## Introduction to Database
 * <img src="https://pngimage.net/wp-content/uploads/2018/06/logo-lecture-png-7.png" alt="drawing"  width="15" height="15"/> [Lecture link](https://drive.google.com/open?id=1DNPfYl3IZcOzyVI4uyWiUnYgjdEI2fQqe07d9TtwMGQ)
+* <img src="https://pngimage.net/wp-content/uploads/2018/06/logo-lecture-png-6.png" alt="drawing"  width="15" height="15"/> [Summary link](https://drive.google.com/open?id=17gKRCKuozIGW2T9HdU5kyvP53PYw_xHb)
 
 ## Entity Relationship Diagram
 * <img src="https://pngimage.net/wp-content/uploads/2018/06/logo-lecture-png-7.png" alt="drawing"  width="15" height="15"/> [Lecture link](https://drive.google.com/open?id=1SOK-ms6EB2Xjgx9oQtsxrkKOrGnTG09oguma24qmnZM)
@@ -30,6 +31,7 @@
 ## Functional Dependecies
 * <img src="https://pngimage.net/wp-content/uploads/2018/06/logo-lecture-png-7.png" alt="drawing"  width="15" height="15"/> [Lecture link](https://drive.google.com/open?id=1ShmhluLhSBmYUc6teQVu1Ql-4SD1Mb8OnhndWOOfv4w)
 * <img src="https://pngimage.net/wp-content/uploads/2018/06/logo-lecture-png-6.png" alt="drawing"  width="15" height="15"/> [Sheet 3 link](https://drive.google.com/open?id=12EEe9DMWRakBK4yG9dr6j296QHdGli3i)
+* <img src="https://pngimage.net/wp-content/uploads/2018/06/logo-lecture-png-8.png" alt="drawing"  width="15" height="15"/> [Solution 3 link](https://drive.google.com/open?id=1C733i8ahJ6r4GolgJrC9EG-4dsT-SoX9)
 
 
 
