@@ -26,12 +26,18 @@
 * <img src="https://pngimage.net/wp-content/uploads/2018/06/logo-lecture-png-6.png" alt="drawing"  width="15" height="15"/> [Summary Of Rules](https://drive.google.com/open?id=1rypfLLr0qvUxAz7hV6KRiGW0R9q4vN21)
 * <img src="https://pngimage.net/wp-content/uploads/2018/06/logo-lecture-png-8.png" alt="drawing"  width="15" height="15"/> [More Examples](https://lbsitbytes2010.wordpress.com/category/mapping-er-to-realtional/page/2/)
 
-
-
 ## Functional Dependecies
 * <img src="https://pngimage.net/wp-content/uploads/2018/06/logo-lecture-png-7.png" alt="drawing"  width="15" height="15"/> [Lecture link](https://drive.google.com/open?id=1ShmhluLhSBmYUc6teQVu1Ql-4SD1Mb8OnhndWOOfv4w)
 * <img src="https://pngimage.net/wp-content/uploads/2018/06/logo-lecture-png-6.png" alt="drawing"  width="15" height="15"/> [Sheet 3 link](https://drive.google.com/open?id=12EEe9DMWRakBK4yG9dr6j296QHdGli3i)
 * <img src="https://pngimage.net/wp-content/uploads/2018/06/logo-lecture-png-8.png" alt="drawing"  width="15" height="15"/> [Solution 3 link](https://drive.google.com/open?id=1C733i8ahJ6r4GolgJrC9EG-4dsT-SoX9)
+
+## Relational Algebra
+* <img src="https://pngimage.net/wp-content/uploads/2018/06/logo-lecture-png-7.png" alt="drawing"  width="15" height="15"/> [Lecture link](https://drive.google.com/open?id=1_WzQs25xBoER3nhB189dZhyJ954hIYqXnAPa2UAXpAQ)
+* <img src="https://pngimage.net/wp-content/uploads/2018/06/logo-lecture-png-6.png" alt="drawing"  width="15" height="15"/> [Sheet 4 link](https://drive.google.com/open?id=16rCLrq4Y55ZQ3JgoODB8uQ4lwC0qcnun)
+* <img src="https://pngimage.net/wp-content/uploads/2018/06/logo-lecture-png-8.png" alt="drawing"  width="15" height="15"/> [Solution 4 link](https://github.com/Hassan-Elseoudy/Database-Spring-2019-) Not added yet.
+
+## SQL
+* <img src="https://pngimage.net/wp-content/uploads/2018/06/logo-lecture-png-7.png" alt="drawing"  width="15" height="15"/> [Lecture link](https://drive.google.com/open?id=1PIgurtTTcW5Zfrx6w515kzuIXIVP4myKLlXVf1mRiG0)
 
 
 
