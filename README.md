@@ -39,7 +39,8 @@
 ## SQL
 * <img src="https://pngimage.net/wp-content/uploads/2018/06/logo-lecture-png-7.png" alt="drawing"  width="15" height="15"/> [Lecture link](https://drive.google.com/open?id=1PIgurtTTcW5Zfrx6w515kzuIXIVP4myKLlXVf1mRiG0)
 
-
+## View
+* <img src="https://pngimage.net/wp-content/uploads/2018/06/logo-lecture-png-7.png" alt="drawing"  width="15" height="15"/> [Lecture link](https://drive.google.com/open?id=1VlxlS8lQnYhc8UYZTatcvo88j1Gl-Z7L)
 
 
 
